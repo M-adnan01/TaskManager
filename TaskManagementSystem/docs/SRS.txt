@@ -1,0 +1,5 @@
+Software Requirements Specification (SRS)
+----------------------------------------
+Purpose: Task management through CLI.
+Functional: Add, edit, delete, toggle, and view tasks.
+Non-functional: Usability, performance, maintainability.
