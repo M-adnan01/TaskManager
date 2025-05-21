@@ -1,2 +1,0 @@
-Follow modular code. Use Task and TaskManager classes.
-Adhere to Python naming conventions and PEP8.

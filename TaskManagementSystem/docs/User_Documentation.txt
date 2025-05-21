@@ -1,2 +1,0 @@
-Run 'python src/main.py'.
-Use menu to add/view/edit/delete/toggle tasks.
